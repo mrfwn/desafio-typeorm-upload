@@ -24,6 +24,7 @@
     "prettier"
   ],
   "rules": {
+    "radix": ["error", "as-needed"],
     "no-underscore-dangle": "off",
     "prettier/prettier": "error",
     "class-methods-use-this": "off",
